@@ -24,7 +24,10 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'xeroizer'
+
 gem 'xero_gateway'
+
+gem 'decent_exposure'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
