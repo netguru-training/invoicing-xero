@@ -1,0 +1,2 @@
+class XeroizerController < ApplicationController
+end

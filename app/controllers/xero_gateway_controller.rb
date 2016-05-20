@@ -1,0 +1,2 @@
+class XeroGatewayController < ApplicationController
+end
