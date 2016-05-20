@@ -27,6 +27,8 @@ gem 'xeroizer'
 
 gem 'xero_gateway'
 
+gem 'pry'
+
 gem 'decent_exposure'
 
 # Use ActiveModel has_secure_password
