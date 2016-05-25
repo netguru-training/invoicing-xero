@@ -28,6 +28,7 @@ gem 'xeroizer'
 gem 'xero_gateway'
 
 gem 'pry'
+gem 'haml'
 
 gem 'decent_exposure'
 
