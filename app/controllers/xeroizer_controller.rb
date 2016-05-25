@@ -7,6 +7,6 @@ class XeroizerController < ApplicationController
   )}
 
   def index
-    p client.Contact.all(:order => 'Name')
+    @contacts = client.Contact.all(:order => 'Name')
   end
 end
